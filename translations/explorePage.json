@@ -1,0 +1,12 @@
+{
+    "placeholderSearchUsers" : "Busca usuarios",
+    "paragraphSearchingUsers" : "Buscando usuarios",
+    "paragraphXResults" : "x resultados para 'Persona Buscada'",
+    "dropdownListExplore" : "Explorar",
+    "dropdownListMyProfile" : "Mi perfil",
+    "dropdownListTeams" : "Equipos",
+    "dropdownListTeamInv" : "Invitaciones de Equipos",
+    "dropdownListProfileSett" : "Configuracion de perfil",
+    "dropdownListEditLayout" : "Editar Diseño",
+    "dropdownListSignOut" : "Desconnectar"
+}
